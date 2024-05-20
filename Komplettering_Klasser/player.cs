@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Player : arv
+public class Player : arv //denna player klass ärver ifrån arv klassen
 {
     // Variabler
     public string Name { get; set; }
@@ -11,7 +11,7 @@ public class Player : arv
     public Player(string name, int health, int maxHealth) : base(health, maxHealth)
     {
         Name = name;
-        Inventory = new List<Item>();
+        Inventory = new List<Item>(); //en list för inventory
     }
 
     // Metoder

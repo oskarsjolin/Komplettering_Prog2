@@ -13,7 +13,7 @@ public class Item
         Value = value;
     }
 
-    // Metod
+    // Metod för items
     public string GetDetails()
     {
         return $"{Name}: {Description} (Value: {Value})";
