@@ -1,0 +1,15 @@
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\bin\Debug\net6.0\Komplettering_Klasser.exe
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\bin\Debug\net6.0\Komplettering_Klasser.deps.json
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\bin\Debug\net6.0\Komplettering_Klasser.runtimeconfig.json
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\bin\Debug\net6.0\Komplettering_Klasser.dll
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\bin\Debug\net6.0\Komplettering_Klasser.pdb
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.csproj.AssemblyReference.cache
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.AssemblyInfoInputs.cache
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.AssemblyInfo.cs
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.csproj.CoreCompileInputs.cache
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.dll
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\refint\Komplettering_Klasser.dll
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.pdb
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\Komplettering_Klasser.genruntimeconfig.cache
+c:\Users\oskar.sjolin1\Documents\Komplettering_Prog2\Komplettering_Klasser\obj\Debug\net6.0\ref\Komplettering_Klasser.dll
